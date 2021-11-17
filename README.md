@@ -3,7 +3,7 @@
 I'm Founder and CEO of [CODE TOT JSC](https://github.com/codetot-web) - the web development agency in Hanoi, VN. We are a group of 5 team members, focus to build 🔭 high-performance websites and dealing ⚡ with Lighthouse Score.
 
 Most of time I will craft sites with our team at:
-- [Code Tot Web](https://github.com/codetot-web)
+- [Code Tot - Web Framework](https://github.com/codetot-web)
 - [Code Tot - Client Repository](https://github.com/codetot-clients)
 
 You can also see **our services** from [codetot.vn](https://codetot.vn)
