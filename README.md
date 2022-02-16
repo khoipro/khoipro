@@ -15,21 +15,19 @@ You can also see **our services** from [codetot.vn](https://codetot.vn)
 
 > You know, fast websites bring more conversion, right?
 
-## What's my challenges in 2021?
+## What's my challenges in 2022?
 
 **Gutenberg Block Editor Develompent Flow**
-
-Currently, we already release a few first custom blocks, including:
-
-- Accordions
-- Image Slider
-- Post Grid
 
 We aim to release 20 blocks, including most of user interactive blocks, from Tabs, Popup to Form section.
 
 **New WordPress Plugins**
 
 We hear customer's voice and do a custom plugin follow their wishes.
+
+**New Platform**
+
+We start to build a new real estate platform which serve 10k+ CCU using WordPress, React, Redux and Cloud Infracstructure.
 
 **Social Links**
 - [LinkedIn](https://www.linkedin.com/in/khoipro/)
