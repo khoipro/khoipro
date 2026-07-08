@@ -10,7 +10,6 @@ I build high-performance, proof-driven WordPress sites. Over **175+ projects** d
 
 - **[runcloud-bash-scripts](https://github.com/codetot-web/runcloud-bash-scripts)** — Battle-tested Bash toolkit for managing WordPress fleets on RunCloud (WP migration, CVE scanning, server hardening)
 - **[SSO for Microsoft Entra](https://github.com/codetot-web/sso-for-microsoft-entra)** — Free open-source WordPress plugin for SAML 2.0 + OpenID Connect SSO, published on WordPress.org
-- **[We're hiring](https://jobs.codetot.com/)** — Building a team of 16+ full-stack engineers at CODE TOT
 
 ### 🌱 What I'm learning
 
